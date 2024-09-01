@@ -28,7 +28,7 @@
                                   <font color="#6d3e1c" face="Times New Roman">
                         <a name="profile"><h2 align="center">Meet the Creator</h2></a>
                         <hr color="#6d3e1c" size="5px"/>
-                        <p><b>Hello! My name is Ameerah L. Caborda, a student from 9-Fairness.</b></p><<img src="meme.jpg" alt="A picture of me holding a balloon" width="300px" height="300px"/>
+                        <p><b>Hello! My name is Ameerah L. Caborda, a student from 9-Fairness.</b></p><<img src="C:\Users\ElaEra\Downloads\e-portfolio\meme.jpg" alt="A picture of me holding a balloon" width="300px" height="300px"/>
                         </font>
                         </td>
                         <td bgcolor="#ffffff" rowspan="2">
